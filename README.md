@@ -7,5 +7,5 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=top1506)](https://solved.ac/top1506)
 <br>
-![JunYup’s github stats](https://github-readme-stats.vercel.app/api?username=JunYupK&show_icons=true&theme=dark)
+// ![JunYup’s github stats](https://github-readme-stats.vercel.app/api?username=JunYupK&show_icons=true&theme=dark)
 

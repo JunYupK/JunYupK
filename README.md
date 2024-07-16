@@ -1,4 +1,4 @@
-- 안녕하세요? 개발자 김준엽입니다.
+- BE 개발자 김준엽입니다.
 
 📧Email. top1506@naver.com <br>
 📑Portpolio. [포트폴리오](https://spot-visitor-fff.notion.site/a2ca829232194da5a633103cc70d8648?pvs=4)
